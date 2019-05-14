@@ -1,0 +1,15 @@
+[0m[[0m[0minfo[0m] [0m[0mPackaging /Users/ahmedkhan/IdeaProjects/ahmed_khan_hw2/target/scala-2.12/ahmed_khan_hw2_2.12-0.1.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ahmed_khan_hw2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/ahmedkhan/IdeaProjects/ahmed_khan_hw2/target/scala-2.12/classes/ahmed_khan_hw2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ahmed_khan_hw2$MyReducer.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/ahmedkhan/IdeaProjects/ahmed_khan_hw2/target/scala-2.12/classes/ahmed_khan_hw2$MyReducer.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ahmed_khan_hw2$MyMapper.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/ahmedkhan/IdeaProjects/ahmed_khan_hw2/target/scala-2.12/classes/ahmed_khan_hw2$MyMapper.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ahmed_khan_hw2$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/ahmedkhan/IdeaProjects/ahmed_khan_hw2/target/scala-2.12/classes/ahmed_khan_hw2$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	profs.txt[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/ahmedkhan/IdeaProjects/ahmed_khan_hw2/target/scala-2.12/classes/profs.txt[0m
+[0m[[0m[0mdebug[0m] [0m[0m	dblp.csv[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/ahmedkhan/IdeaProjects/ahmed_khan_hw2/target/scala-2.12/classes/dblp.csv[0m
+[0m[[0m[0minfo[0m] [0m[0mDone packaging.[0m
