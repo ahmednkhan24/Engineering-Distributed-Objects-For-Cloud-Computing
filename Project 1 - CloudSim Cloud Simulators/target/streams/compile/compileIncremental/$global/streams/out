@@ -1,0 +1,49 @@
+[0m[[0m[0mdebug[0m] [0m[0mFull compilation, no sources in previous analysis.[0m
+[0m[[0m[0mdebug[0m] [0m[0mAll sources are invalidated.[0m
+[0m[[0m[0mdebug[0m] [0m[0mRecompiling all 3 sources: invalidated sources (3) exceeded 50.0% of all sources[0m
+[0m[[0m[0minfo[0m] [0m[0mCompiling 2 Scala sources and 1 Java source to /Users/ahmedkhan/Documents/ahmed_khan_hw1/src/target/scala-2.12/classes ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mGetting org.scala-sbt:compiler-bridge_2.12:1.2.5:compile for Scala 2.12.8[0m
+[0m[[0m[0minfo[0m] [0m[0mNon-compiled module 'compiler-bridge_2.12' for Scala 2.12.8. Compiling...[0m
+[0m[[0m[0mdebug[0m] [0m[0mCreating plain compiler interface for 2.12.8.[0m
+[0m[[0m[0mdebug[0m] [0m[0m  > Arguments: [0m
+[0m[[0m[0mdebug[0m] [0m[0m	-nowarn[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-d[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/var/folders/p2/bfcn4m397_x2xy9cjl9tktfm0000gn/T/sbt_cf521ed9[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-bootclasspath[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/Users/ahmedkhan/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.12.8.jar[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-classpath[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/var/folders/p2/bfcn4m397_x2xy9cjl9tktfm0000gn/T/sbt_ce40243f/jars/org.scala-sbt/compiler-interface/compiler-interface-1.2.5.jar:/var/folders/p2/bfcn4m397_x2xy9cjl9tktfm0000gn/T/sbt_ce40243f/jars/org.scala-sbt/util-interface/util-interface-1.2.2.jar:/var/folders/p2/bfcn4m397_x2xy9cjl9tktfm0000gn/T/sbt_ce40243f/srcs/org.scala-sbt/compiler-bridge_2.12/compiler-bridge_2.12-1.2.5-sources.jar:/Users/ahmedkhan/.ivy2/cache/org.scala-lang/scala-compiler/jars/scala-compiler-2.12.8.jar:/Users/ahmedkhan/.ivy2/cache/org.scala-lang/scala-reflect/jars/scala-reflect-2.12.8.jar:/Users/ahmedkhan/.ivy2/cache/org.scala-lang.modules/scala-xml_2.12/bundles/scala-xml_2.12-1.0.6.jar:/Users/ahmedkhan/.ivy2/cache/jline/jline/jars/jline-2.14.6.jar[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/var/folders/p2/bfcn4m397_x2xy9cjl9tktfm0000gn/T/sbt_e4d927c0/xsbt/API.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/var/folders/p2/bfcn4m397_x2xy9cjl9tktfm0000gn/T/sbt_e4d927c0/xsbt/Analyzer.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/var/folders/p2/bfcn4m397_x2xy9cjl9tktfm0000gn/T/sbt_e4d927c0/xsbt/CallbackGlobal.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/var/folders/p2/bfcn4m397_x2xy9cjl9tktfm0000gn/T/sbt_e4d927c0/xsbt/ClassName.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/var/folders/p2/bfcn4m397_x2xy9cjl9tktfm0000gn/T/sbt_e4d927c0/xsbt/Command.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/var/folders/p2/bfcn4m397_x2xy9cjl9tktfm0000gn/T/sbt_e4d927c0/xsbt/Compat.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/var/folders/p2/bfcn4m397_x2xy9cjl9tktfm0000gn/T/sbt_e4d927c0/xsbt/CompilerInterface.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/var/folders/p2/bfcn4m397_x2xy9cjl9tktfm0000gn/T/sbt_e4d927c0/xsbt/ConsoleInterface.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/var/folders/p2/bfcn4m397_x2xy9cjl9tktfm0000gn/T/sbt_e4d927c0/xsbt/DelegatingReporter.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/var/folders/p2/bfcn4m397_x2xy9cjl9tktfm0000gn/T/sbt_e4d927c0/xsbt/Dependency.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/var/folders/p2/bfcn4m397_x2xy9cjl9tktfm0000gn/T/sbt_e4d927c0/xsbt/ExtractAPI.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/var/folders/p2/bfcn4m397_x2xy9cjl9tktfm0000gn/T/sbt_e4d927c0/xsbt/ExtractUsedNames.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/var/folders/p2/bfcn4m397_x2xy9cjl9tktfm0000gn/T/sbt_e4d927c0/xsbt/GlobalHelpers.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/var/folders/p2/bfcn4m397_x2xy9cjl9tktfm0000gn/T/sbt_e4d927c0/xsbt/InteractiveConsoleFactory.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/var/folders/p2/bfcn4m397_x2xy9cjl9tktfm0000gn/T/sbt_e4d927c0/xsbt/InteractiveConsoleHelper.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/var/folders/p2/bfcn4m397_x2xy9cjl9tktfm0000gn/T/sbt_e4d927c0/xsbt/InteractiveConsoleInterface.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/var/folders/p2/bfcn4m397_x2xy9cjl9tktfm0000gn/T/sbt_e4d927c0/xsbt/InteractiveConsoleResponse.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/var/folders/p2/bfcn4m397_x2xy9cjl9tktfm0000gn/T/sbt_e4d927c0/xsbt/JavaUtils.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/var/folders/p2/bfcn4m397_x2xy9cjl9tktfm0000gn/T/sbt_e4d927c0/xsbt/LocalToNonLocalClass.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/var/folders/p2/bfcn4m397_x2xy9cjl9tktfm0000gn/T/sbt_e4d927c0/xsbt/LocateClassFile.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/var/folders/p2/bfcn4m397_x2xy9cjl9tktfm0000gn/T/sbt_e4d927c0/xsbt/Log.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/var/folders/p2/bfcn4m397_x2xy9cjl9tktfm0000gn/T/sbt_e4d927c0/xsbt/Message.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/var/folders/p2/bfcn4m397_x2xy9cjl9tktfm0000gn/T/sbt_e4d927c0/xsbt/ScaladocInterface.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m      [0m
+[0m[[0m[0minfo[0m] [0m[0m  Compilation completed in 10.552s.[0m
+[0m[[0m[0mdebug[0m] [0m[0mGetting org.scala-sbt:compiler-bridge_2.12:1.2.5:compile for Scala 2.12.8[0m
+[0m[[0m[0mdebug[0m] [0m[0m[zinc] Running cached compiler 4c4bab3 for Scala compiler version 2.12.8[0m
+[0m[[0m[0mdebug[0m] [0m[0m[zinc] The Scala compiler is invoked with:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-bootclasspath[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/Users/ahmedkhan/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.12.8.jar[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-classpath[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/Users/ahmedkhan/Documents/ahmed_khan_hw1/src/target/scala-2.12/classes:/Users/ahmedkhan/.ivy2/cache/org.scala-lang.modules/scala-parser-combinators_2.12/bundles/scala-parser-combinators_2.12-1.1.0.jar:/Users/ahmedkhan/.ivy2/cache/com.typesafe/config/bundles/config-1.3.2.jar[0m
+[0m[[0m[0mdebug[0m] [0m[0mCompilation failed (CompilerInterface)[0m
+[0m[[0m[31merror[0m] [0m[0m(Compile / [31mcompileIncremental[0m) Compilation failed[0m

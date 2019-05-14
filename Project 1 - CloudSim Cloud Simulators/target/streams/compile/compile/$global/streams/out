@@ -1,0 +1,199 @@
+[0m[[0m[31merror[0m] [0m[0m/Users/ahmedkhan/Documents/ahmed_khan_hw1/src/src/main/scala/ahmed_khan_hw1.scala:11:12: object cloudbus is not a member of package org[0m
+[0m[[0m[31merror[0m] [0m[0mimport org.cloudbus.cloudsim.Cloudlet[0m
+[0m[[0m[31merror[0m] [0m[0m           ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/ahmedkhan/Documents/ahmed_khan_hw1/src/src/main/scala/ahmed_khan_hw1.scala:12:12: object cloudbus is not a member of package org[0m
+[0m[[0m[31merror[0m] [0m[0mimport org.cloudbus.cloudsim.CloudletSchedulerTimeShared[0m
+[0m[[0m[31merror[0m] [0m[0m           ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/ahmedkhan/Documents/ahmed_khan_hw1/src/src/main/scala/ahmed_khan_hw1.scala:13:12: object cloudbus is not a member of package org[0m
+[0m[[0m[31merror[0m] [0m[0mimport org.cloudbus.cloudsim.Datacenter[0m
+[0m[[0m[31merror[0m] [0m[0m           ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/ahmedkhan/Documents/ahmed_khan_hw1/src/src/main/scala/ahmed_khan_hw1.scala:14:12: object cloudbus is not a member of package org[0m
+[0m[[0m[31merror[0m] [0m[0mimport org.cloudbus.cloudsim.DatacenterBroker[0m
+[0m[[0m[31merror[0m] [0m[0m           ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/ahmedkhan/Documents/ahmed_khan_hw1/src/src/main/scala/ahmed_khan_hw1.scala:15:12: object cloudbus is not a member of package org[0m
+[0m[[0m[31merror[0m] [0m[0mimport org.cloudbus.cloudsim.DatacenterCharacteristics[0m
+[0m[[0m[31merror[0m] [0m[0m           ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/ahmedkhan/Documents/ahmed_khan_hw1/src/src/main/scala/ahmed_khan_hw1.scala:16:12: object cloudbus is not a member of package org[0m
+[0m[[0m[31merror[0m] [0m[0mimport org.cloudbus.cloudsim.Host[0m
+[0m[[0m[31merror[0m] [0m[0m           ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/ahmedkhan/Documents/ahmed_khan_hw1/src/src/main/scala/ahmed_khan_hw1.scala:17:12: object cloudbus is not a member of package org[0m
+[0m[[0m[31merror[0m] [0m[0mimport org.cloudbus.cloudsim.Log[0m
+[0m[[0m[31merror[0m] [0m[0m           ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/ahmedkhan/Documents/ahmed_khan_hw1/src/src/main/scala/ahmed_khan_hw1.scala:18:12: object cloudbus is not a member of package org[0m
+[0m[[0m[31merror[0m] [0m[0mimport org.cloudbus.cloudsim.Pe[0m
+[0m[[0m[31merror[0m] [0m[0m           ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/ahmedkhan/Documents/ahmed_khan_hw1/src/src/main/scala/ahmed_khan_hw1.scala:19:12: object cloudbus is not a member of package org[0m
+[0m[[0m[31merror[0m] [0m[0mimport org.cloudbus.cloudsim.Storage[0m
+[0m[[0m[31merror[0m] [0m[0m           ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/ahmedkhan/Documents/ahmed_khan_hw1/src/src/main/scala/ahmed_khan_hw1.scala:20:12: object cloudbus is not a member of package org[0m
+[0m[[0m[31merror[0m] [0m[0mimport org.cloudbus.cloudsim.UtilizationModel[0m
+[0m[[0m[31merror[0m] [0m[0m           ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/ahmedkhan/Documents/ahmed_khan_hw1/src/src/main/scala/ahmed_khan_hw1.scala:21:12: object cloudbus is not a member of package org[0m
+[0m[[0m[31merror[0m] [0m[0mimport org.cloudbus.cloudsim.UtilizationModelFull[0m
+[0m[[0m[31merror[0m] [0m[0m           ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/ahmedkhan/Documents/ahmed_khan_hw1/src/src/main/scala/ahmed_khan_hw1.scala:22:12: object cloudbus is not a member of package org[0m
+[0m[[0m[31merror[0m] [0m[0mimport org.cloudbus.cloudsim.Vm[0m
+[0m[[0m[31merror[0m] [0m[0m           ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/ahmedkhan/Documents/ahmed_khan_hw1/src/src/main/scala/ahmed_khan_hw1.scala:23:12: object cloudbus is not a member of package org[0m
+[0m[[0m[31merror[0m] [0m[0mimport org.cloudbus.cloudsim.VmAllocationPolicySimple[0m
+[0m[[0m[31merror[0m] [0m[0m           ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/ahmedkhan/Documents/ahmed_khan_hw1/src/src/main/scala/ahmed_khan_hw1.scala:24:12: object cloudbus is not a member of package org[0m
+[0m[[0m[31merror[0m] [0m[0mimport org.cloudbus.cloudsim.VmSchedulerTimeShared[0m
+[0m[[0m[31merror[0m] [0m[0m           ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/ahmedkhan/Documents/ahmed_khan_hw1/src/src/main/scala/ahmed_khan_hw1.scala:25:12: object cloudbus is not a member of package org[0m
+[0m[[0m[31merror[0m] [0m[0mimport org.cloudbus.cloudsim.core.CloudSim[0m
+[0m[[0m[31merror[0m] [0m[0m           ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/ahmedkhan/Documents/ahmed_khan_hw1/src/src/main/scala/ahmed_khan_hw1.scala:26:12: object cloudbus is not a member of package org[0m
+[0m[[0m[31merror[0m] [0m[0mimport org.cloudbus.cloudsim.provisioners.BwProvisionerSimple[0m
+[0m[[0m[31merror[0m] [0m[0m           ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/ahmedkhan/Documents/ahmed_khan_hw1/src/src/main/scala/ahmed_khan_hw1.scala:27:12: object cloudbus is not a member of package org[0m
+[0m[[0m[31merror[0m] [0m[0mimport org.cloudbus.cloudsim.provisioners.PeProvisionerSimple[0m
+[0m[[0m[31merror[0m] [0m[0m           ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/ahmedkhan/Documents/ahmed_khan_hw1/src/src/main/scala/ahmed_khan_hw1.scala:28:12: object cloudbus is not a member of package org[0m
+[0m[[0m[31merror[0m] [0m[0mimport org.cloudbus.cloudsim.provisioners.RamProvisionerSimple[0m
+[0m[[0m[31merror[0m] [0m[0m           ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/ahmedkhan/Documents/ahmed_khan_hw1/src/src/main/scala/ahmed_khan_hw1.scala:37:59: not found: type Cloudlet[0m
+[0m[[0m[31merror[0m] [0m[0m  private def printCloudletList(list: java.util.List[_ <: Cloudlet]): Unit = {[0m
+[0m[[0m[31merror[0m] [0m[0m                                                          ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/ahmedkhan/Documents/ahmed_khan_hw1/src/src/main/scala/ahmed_khan_hw1.scala:43:5: not found: value Log[0m
+[0m[[0m[31merror[0m] [0m[0m    Log.printLine()[0m
+[0m[[0m[31merror[0m] [0m[0m    ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/ahmedkhan/Documents/ahmed_khan_hw1/src/src/main/scala/ahmed_khan_hw1.scala:45:5: not found: value Log[0m
+[0m[[0m[31merror[0m] [0m[0m    Log.printLine("========== OUTPUT ==========")[0m
+[0m[[0m[31merror[0m] [0m[0m    ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/ahmedkhan/Documents/ahmed_khan_hw1/src/src/main/scala/ahmed_khan_hw1.scala:47:5: not found: value Log[0m
+[0m[[0m[31merror[0m] [0m[0m    Log.printLine("Cloudlet ID" + indent + "STATUS" + indent + "Data center ID" + indent + "VM ID" + indent + "Time" + indent + "Start Time" + indent + "Finish Time")[0m
+[0m[[0m[31merror[0m] [0m[0m    ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/ahmedkhan/Documents/ahmed_khan_hw1/src/src/main/scala/ahmed_khan_hw1.scala:59:7: not found: value Log[0m
+[0m[[0m[31merror[0m] [0m[0m      Log.print(indent + cloudlet.getCloudletId + indent + indent)[0m
+[0m[[0m[31merror[0m] [0m[0m      ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/ahmedkhan/Documents/ahmed_khan_hw1/src/src/main/scala/ahmed_khan_hw1.scala:59:35: value getCloudletId is not a member of Any[0m
+[0m[[0m[31merror[0m] [0m[0m      Log.print(indent + cloudlet.getCloudletId + indent + indent)[0m
+[0m[[0m[31merror[0m] [0m[0m                                  ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/ahmedkhan/Documents/ahmed_khan_hw1/src/src/main/scala/ahmed_khan_hw1.scala:61:20: value getCloudletStatus is not a member of Any[0m
+[0m[[0m[31merror[0m] [0m[0m      if (cloudlet.getCloudletStatus == Cloudlet.SUCCESS) {[0m
+[0m[[0m[31merror[0m] [0m[0m                   ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/ahmedkhan/Documents/ahmed_khan_hw1/src/src/main/scala/ahmed_khan_hw1.scala:61:41: not found: value Cloudlet[0m
+[0m[[0m[31merror[0m] [0m[0m      if (cloudlet.getCloudletStatus == Cloudlet.SUCCESS) {[0m
+[0m[[0m[31merror[0m] [0m[0m                                        ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/ahmedkhan/Documents/ahmed_khan_hw1/src/src/main/scala/ahmed_khan_hw1.scala:63:9: not found: value Log[0m
+[0m[[0m[31merror[0m] [0m[0m        Log.print("SUCCESS")[0m
+[0m[[0m[31merror[0m] [0m[0m        ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/ahmedkhan/Documents/ahmed_khan_hw1/src/src/main/scala/ahmed_khan_hw1.scala:64:9: not found: value Log[0m
+[0m[[0m[31merror[0m] [0m[0m        Log.printLine(indent + indent + cloudlet.getResourceId + indent + indent + indent + cloudlet.getVmId + indent + indent + dft.format(cloudlet.getActualCPUTime) + indent + indent + dft.format(cloudlet.getExecStartTime) + indent + indent + dft.format(cloudlet.getFinishTime))[0m
+[0m[[0m[31merror[0m] [0m[0m        ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/ahmedkhan/Documents/ahmed_khan_hw1/src/src/main/scala/ahmed_khan_hw1.scala:64:50: value getResourceId is not a member of Any[0m
+[0m[[0m[31merror[0m] [0m[0m        Log.printLine(indent + indent + cloudlet.getResourceId + indent + indent + indent + cloudlet.getVmId + indent + indent + dft.format(cloudlet.getActualCPUTime) + indent + indent + dft.format(cloudlet.getExecStartTime) + indent + indent + dft.format(cloudlet.getFinishTime))[0m
+[0m[[0m[31merror[0m] [0m[0m                                                 ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/ahmedkhan/Documents/ahmed_khan_hw1/src/src/main/scala/ahmed_khan_hw1.scala:64:102: value getVmId is not a member of Any[0m
+[0m[[0m[31merror[0m] [0m[0m        Log.printLine(indent + indent + cloudlet.getResourceId + indent + indent + indent + cloudlet.getVmId + indent + indent + dft.format(cloudlet.getActualCPUTime) + indent + indent + dft.format(cloudlet.getExecStartTime) + indent + indent + dft.format(cloudlet.getFinishTime))[0m
+[0m[[0m[31merror[0m] [0m[0m                                                                                                     ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/ahmedkhan/Documents/ahmed_khan_hw1/src/src/main/scala/ahmed_khan_hw1.scala:64:150: value getActualCPUTime is not a member of Any[0m
+[0m[[0m[31merror[0m] [0m[0m        Log.printLine(indent + indent + cloudlet.getResourceId + indent + indent + indent + cloudlet.getVmId + indent + indent + dft.format(cloudlet.getActualCPUTime) + indent + indent + dft.format(cloudlet.getExecStartTime) + indent + indent + dft.format(cloudlet.getFinishTime))[0m
+[0m[[0m[31merror[0m] [0m[0m                                                                                                                                                     ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/ahmedkhan/Documents/ahmed_khan_hw1/src/src/main/scala/ahmed_khan_hw1.scala:64:208: value getExecStartTime is not a member of Any[0m
+[0m[[0m[31merror[0m] [0m[0m        Log.printLine(indent + indent + cloudlet.getResourceId + indent + indent + indent + cloudlet.getVmId + indent + indent + dft.format(cloudlet.getActualCPUTime) + indent + indent + dft.format(cloudlet.getExecStartTime) + indent + indent + dft.format(cloudlet.getFinishTime))[0m
+[0m[[0m[31merror[0m] [0m[0m                                                                                                                                                                                                               ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/ahmedkhan/Documents/ahmed_khan_hw1/src/src/main/scala/ahmed_khan_hw1.scala:64:266: value getFinishTime is not a member of Any[0m
+[0m[[0m[31merror[0m] [0m[0m        Log.printLine(indent + indent + cloudlet.getResourceId + indent + indent + indent + cloudlet.getVmId + indent + indent + dft.format(cloudlet.getActualCPUTime) + indent + indent + dft.format(cloudlet.getExecStartTime) + indent + indent + dft.format(cloudlet.getFinishTime))[0m
+[0m[[0m[31merror[0m] [0m[0m                                                                                                                                                                                                                                                                         ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/ahmedkhan/Documents/ahmed_khan_hw1/src/src/main/scala/ahmed_khan_hw1.scala:111:29: not found: type DatacenterBroker[0m
+[0m[[0m[31merror[0m] [0m[0m  private def createBroker: DatacenterBroker = {[0m
+[0m[[0m[31merror[0m] [0m[0m                            ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/ahmedkhan/Documents/ahmed_khan_hw1/src/src/main/scala/ahmed_khan_hw1.scala:114:24: not found: type DatacenterBroker[0m
+[0m[[0m[31merror[0m] [0m[0m      val broker = new DatacenterBroker("Broker")[0m
+[0m[[0m[31merror[0m] [0m[0m                       ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/ahmedkhan/Documents/ahmed_khan_hw1/src/src/main/scala/ahmed_khan_hw1.scala:142:11: not found: type Pe[0m
+[0m[[0m[31merror[0m] [0m[0m      new Pe(x, new PeProvisionerSimple(config.getInt(path + ".mips")))[0m
+[0m[[0m[31merror[0m] [0m[0m          ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/ahmedkhan/Documents/ahmed_khan_hw1/src/src/main/scala/ahmed_khan_hw1.scala:142:21: not found: type PeProvisionerSimple[0m
+[0m[[0m[31merror[0m] [0m[0m      new Pe(x, new PeProvisionerSimple(config.getInt(path + ".mips")))[0m
+[0m[[0m[31merror[0m] [0m[0m                    ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/ahmedkhan/Documents/ahmed_khan_hw1/src/src/main/scala/ahmed_khan_hw1.scala:148:11: not found: type Pe[0m
+[0m[[0m[31merror[0m] [0m[0m      new Pe(x, new PeProvisionerSimple(config.getInt(path + ".mips")))[0m
+[0m[[0m[31merror[0m] [0m[0m          ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/ahmedkhan/Documents/ahmed_khan_hw1/src/src/main/scala/ahmed_khan_hw1.scala:148:21: not found: type PeProvisionerSimple[0m
+[0m[[0m[31merror[0m] [0m[0m      new Pe(x, new PeProvisionerSimple(config.getInt(path + ".mips")))[0m
+[0m[[0m[31merror[0m] [0m[0m                    ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/ahmedkhan/Documents/ahmed_khan_hw1/src/src/main/scala/ahmed_khan_hw1.scala:156:11: not found: type Host[0m
+[0m[[0m[31merror[0m] [0m[0m      new Host([0m
+[0m[[0m[31merror[0m] [0m[0m          ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/ahmedkhan/Documents/ahmed_khan_hw1/src/src/main/scala/ahmed_khan_hw1.scala:158:13: not found: type RamProvisionerSimple[0m
+[0m[[0m[31merror[0m] [0m[0m        new RamProvisionerSimple(config.getInt(path + ".host.ram")),[0m
+[0m[[0m[31merror[0m] [0m[0m            ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/ahmedkhan/Documents/ahmed_khan_hw1/src/src/main/scala/ahmed_khan_hw1.scala:159:13: not found: type BwProvisionerSimple[0m
+[0m[[0m[31merror[0m] [0m[0m        new BwProvisionerSimple(config.getInt(path + ".host.bandwidth")),[0m
+[0m[[0m[31merror[0m] [0m[0m            ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/ahmedkhan/Documents/ahmed_khan_hw1/src/src/main/scala/ahmed_khan_hw1.scala:162:13: not found: type VmSchedulerTimeShared[0m
+[0m[[0m[31merror[0m] [0m[0m        new VmSchedulerTimeShared(toJavaList(peList))),[0m
+[0m[[0m[31merror[0m] [0m[0m            ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/ahmedkhan/Documents/ahmed_khan_hw1/src/src/main/scala/ahmed_khan_hw1.scala:164:11: not found: type Host[0m
+[0m[[0m[31merror[0m] [0m[0m      new Host([0m
+[0m[[0m[31merror[0m] [0m[0m          ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/ahmedkhan/Documents/ahmed_khan_hw1/src/src/main/scala/ahmed_khan_hw1.scala:166:13: not found: type RamProvisionerSimple[0m
+[0m[[0m[31merror[0m] [0m[0m        new RamProvisionerSimple(config.getInt(path + ".host.ram")),[0m
+[0m[[0m[31merror[0m] [0m[0m            ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/ahmedkhan/Documents/ahmed_khan_hw1/src/src/main/scala/ahmed_khan_hw1.scala:167:13: not found: type BwProvisionerSimple[0m
+[0m[[0m[31merror[0m] [0m[0m        new BwProvisionerSimple(config.getInt(path + ".host.bandwidth")),[0m
+[0m[[0m[31merror[0m] [0m[0m            ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/ahmedkhan/Documents/ahmed_khan_hw1/src/src/main/scala/ahmed_khan_hw1.scala:170:13: not found: type VmSchedulerTimeShared[0m
+[0m[[0m[31merror[0m] [0m[0m        new VmSchedulerTimeShared(toJavaList(peList2)))[0m
+[0m[[0m[31merror[0m] [0m[0m            ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/ahmedkhan/Documents/ahmed_khan_hw1/src/src/main/scala/ahmed_khan_hw1.scala:177:31: not found: type DatacenterCharacteristics[0m
+[0m[[0m[31merror[0m] [0m[0m    val characteristics = new DatacenterCharacteristics([0m
+[0m[[0m[31merror[0m] [0m[0m                              ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/ahmedkhan/Documents/ahmed_khan_hw1/src/src/main/scala/ahmed_khan_hw1.scala:192:28: not found: type Datacenter[0m
+[0m[[0m[31merror[0m] [0m[0m      val datacenter = new Datacenter([0m
+[0m[[0m[31merror[0m] [0m[0m                           ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/ahmedkhan/Documents/ahmed_khan_hw1/src/src/main/scala/ahmed_khan_hw1.scala:195:13: not found: type VmAllocationPolicySimple[0m
+[0m[[0m[31merror[0m] [0m[0m        new VmAllocationPolicySimple(toJavaList(hostList)),[0m
+[0m[[0m[31merror[0m] [0m[0m            ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/ahmedkhan/Documents/ahmed_khan_hw1/src/src/main/scala/ahmed_khan_hw1.scala:196:29: not found: type Storage[0m
+[0m[[0m[31merror[0m] [0m[0m        new util.LinkedList[Storage],[0m
+[0m[[0m[31merror[0m] [0m[0m                            ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/ahmedkhan/Documents/ahmed_khan_hw1/src/src/main/scala/ahmed_khan_hw1.scala:212:59: not found: type Vm[0m
+[0m[[0m[31merror[0m] [0m[0m  private def createVM(userId: Int, config: Config): List[Vm] = {[0m
+[0m[[0m[31merror[0m] [0m[0m                                                          ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/ahmedkhan/Documents/ahmed_khan_hw1/src/src/main/scala/ahmed_khan_hw1.scala:220:11: not found: type Vm[0m
+[0m[[0m[31merror[0m] [0m[0m      new Vm([0m
+[0m[[0m[31merror[0m] [0m[0m          ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/ahmedkhan/Documents/ahmed_khan_hw1/src/src/main/scala/ahmed_khan_hw1.scala:229:13: not found: type CloudletSchedulerTimeShared[0m
+[0m[[0m[31merror[0m] [0m[0m        new CloudletSchedulerTimeShared)[0m
+[0m[[0m[31merror[0m] [0m[0m            ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/ahmedkhan/Documents/ahmed_khan_hw1/src/src/main/scala/ahmed_khan_hw1.scala:240:65: not found: type Cloudlet[0m
+[0m[[0m[31merror[0m] [0m[0m  private def createCloudlet(userId: Int, config: Config): List[Cloudlet] = {[0m
+[0m[[0m[31merror[0m] [0m[0m                                                                ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/ahmedkhan/Documents/ahmed_khan_hw1/src/src/main/scala/ahmed_khan_hw1.scala:248:11: not found: type Cloudlet[0m
+[0m[[0m[31merror[0m] [0m[0m      new Cloudlet([0m
+[0m[[0m[31merror[0m] [0m[0m          ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/ahmedkhan/Documents/ahmed_khan_hw1/src/src/main/scala/ahmed_khan_hw1.scala:254:13: not found: type UtilizationModelFull[0m
+[0m[[0m[31merror[0m] [0m[0m        new UtilizationModelFull(),[0m
+[0m[[0m[31merror[0m] [0m[0m            ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/ahmedkhan/Documents/ahmed_khan_hw1/src/src/main/scala/ahmed_khan_hw1.scala:255:13: not found: type UtilizationModelFull[0m
+[0m[[0m[31merror[0m] [0m[0m        new UtilizationModelFull(),[0m
+[0m[[0m[31merror[0m] [0m[0m            ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/ahmedkhan/Documents/ahmed_khan_hw1/src/src/main/scala/ahmed_khan_hw1.scala:256:13: not found: type UtilizationModelFull[0m
+[0m[[0m[31merror[0m] [0m[0m        new UtilizationModelFull())[0m
+[0m[[0m[31merror[0m] [0m[0m            ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/ahmedkhan/Documents/ahmed_khan_hw1/src/src/main/scala/ahmed_khan_hw1.scala:260:33: value setUserId is not a member of Nothing[0m
+[0m[[0m[31merror[0m] [0m[0m    cloudletList.foreach(x => x.setUserId(userId))[0m
+[0m[[0m[31merror[0m] [0m[0m                                ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/ahmedkhan/Documents/ahmed_khan_hw1/src/src/main/scala/ahmed_khan_hw1.scala:271:5: not found: value Log[0m
+[0m[[0m[31merror[0m] [0m[0m    Log.printLine("Starting CloudSimExample1...")[0m
+[0m[[0m[31merror[0m] [0m[0m    ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/ahmedkhan/Documents/ahmed_khan_hw1/src/src/main/scala/ahmed_khan_hw1.scala:279:7: not found: value CloudSim[0m
+[0m[[0m[31merror[0m] [0m[0m      CloudSim.init(config.getInt("config.num_user"), Calendar.getInstance, false)[0m
+[0m[[0m[31merror[0m] [0m[0m      ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/ahmedkhan/Documents/ahmed_khan_hw1/src/src/main/scala/ahmed_khan_hw1.scala:302:7: not found: value CloudSim[0m
+[0m[[0m[31merror[0m] [0m[0m      CloudSim.startSimulation()[0m
+[0m[[0m[31merror[0m] [0m[0m      ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/ahmedkhan/Documents/ahmed_khan_hw1/src/src/main/scala/ahmed_khan_hw1.scala:304:7: not found: value CloudSim[0m
+[0m[[0m[31merror[0m] [0m[0m      CloudSim.stopSimulation()[0m
+[0m[[0m[31merror[0m] [0m[0m      ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/ahmedkhan/Documents/ahmed_khan_hw1/src/src/main/scala/ahmed_khan_hw1.scala:311:7: not found: value Log[0m
+[0m[[0m[31merror[0m] [0m[0m      Log.printLine("CloudSimExample1 finished!")[0m
+[0m[[0m[31merror[0m] [0m[0m      ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/ahmedkhan/Documents/ahmed_khan_hw1/src/src/main/scala/ahmed_khan_hw1.scala:316:9: not found: value Log[0m
+[0m[[0m[31merror[0m] [0m[0m        Log.printLine("Unwanted errors happen")[0m
+[0m[[0m[31merror[0m] [0m[0m        ^[0m
+[0m[[0m[31merror[0m] [0m[0m66 errors found[0m
