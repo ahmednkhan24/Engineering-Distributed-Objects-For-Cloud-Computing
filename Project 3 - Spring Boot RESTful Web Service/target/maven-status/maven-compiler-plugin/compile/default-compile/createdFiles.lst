@@ -1,0 +1,9 @@
+chess/Move.class
+hello/Controller.class
+hello/MoveRequest.class
+chess/Game.class
+hello/Response.class
+chess/Board.class
+chess/Player.class
+chess/Piece.class
+hello/App.class
